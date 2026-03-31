@@ -1,0 +1,7 @@
+{
+    "name": "agentz",
+    "version": "0.0.0",
+    "bin": {
+        "agentz": "./cli.js"
+    }
+}
